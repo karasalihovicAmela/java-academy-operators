@@ -1,0 +1,31 @@
+
+Y
+java:S1854%">Remove this useless assignment to local variable "checkValue".(³‹ã¸ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—ô÷©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øÚàË
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕĞ­á
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ€´šüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ¹Ûû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÇÜ¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÇÜ¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÇÜ¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÇÜ¹ûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÃÇÜ¹ûÿÿÿÿ
+J
+java:S1481%"/Remove this unused "checkValue" local variable.(³‹ã¸ÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+?
+java:S1940*")Use the opposite operator ("!=") instead.(Ø¼¸Ö
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(‰ğî¬ûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(œÏ´øÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(€ë¿¬øÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(ãÙ‰N
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Â„óÔ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(æ‚ƒ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Ÿùÿÿÿÿ
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ÖÜËùÿÿÿÿ8âùŒİë/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ˆÑÂ„ûÿÿÿÿ8¡’İë/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ïŠ‰×8´‰•İë/
+L
+java:S1197D"*Move the array designators [] to the type.(‰¿úÿÿÿÿ8Šë›İë/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(â ûõûÿÿÿÿ8­§İë/
